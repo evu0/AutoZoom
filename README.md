@@ -11,7 +11,7 @@ AutoZoom is a simple tool that joins your zoom meetings automatically. :sparkles
   - The second row of each lecture is when it ends, AutoZoom won't leave the meetings that you left empty.
   - The room ID is the number that comes at the end of the zoom link, for instance: zoom.us/j/***(XXXXXXXXXX)***
   
-2. **AutoZoom** won't work when you close this window, so keep it open.
+2. **AutoZoom** won't work when you close the console window, so please keep it open.
 
 # Important Note
 - Please attend to your classes.

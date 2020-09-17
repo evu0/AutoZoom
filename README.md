@@ -7,7 +7,7 @@ AutoZoom is a simple tool that joins your zoom meetings automatically. :sparkles
 # Usage
 1. Install requirements **(pip install -r /path/to/requirements.txt)**
 
-2. Extract ***Profile.rar*** to the main folder.
+2. Extract **Profile.rar** to the main folder.
 
 3. Make sure you edit **Schedule.xls** before using **AutoZoom**.
   - AutoZoom uses 24h system.

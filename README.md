@@ -28,7 +28,7 @@ AutoZoom is a simple tool that joins your zoom meetings automatically. :sparkles
 4. **AutoZoom** won't work when you close the console window, so please keep it open.
 
 # Contact
-Discord: Avocadu#8473
+- Discord: Avocadu#8473
 
 # Important Note
 - Please attend to your classes.

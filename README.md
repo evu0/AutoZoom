@@ -11,7 +11,7 @@ AutoZoom is a simple tool that joins your zoom meetings automatically. :sparkles
 
 - In case you're not familiar with python, use **AutoZoom.exe** & neglect the next point.
 
-3. Install requirements **(pip install -r /path/to/requirements.txt)**.
+3. Install requirements ```pip install -r /path/to/requirements.txt```
 
 
 # Usage

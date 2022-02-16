@@ -2,7 +2,7 @@
 AutoZoom is a simple tool that joins your zoom meetings automatically. :sparkles:
 
 # Screenshot
-![Screenshot of AutoZoom](https://puu.sh/GtHXI/4113689bd2.PNG)
+![Screenshot of AutoZoom](https://i.postimg.cc/hGqhxLb3/autozoom.png)
 
 # Installation
 1. **Firefox** must be installed.
@@ -28,7 +28,7 @@ AutoZoom is a simple tool that joins your zoom meetings automatically. :sparkles
 4. **AutoZoom** won't work when you close the console window, so please keep it open.
 
 # Contact
-- Discord: Avocadu#8473
+- Discord: Avocadu#5259
 
 # Important Note
 - Please attend to your classes.

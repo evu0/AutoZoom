@@ -24,9 +24,3 @@ AutoZoom is a simple tool that joins your zoom meetings automatically. :sparkles
 3. To use AutoZoom.py, open cmd and type the following: ```python /path/to/AutoZoom.py```
 
 4. **AutoZoom** won't work when you close the console window, so please keep it open.
-
-# Contact
-- Discord: Avocadu#5259
-
-# Important Note
-- Please attend to your classes.
